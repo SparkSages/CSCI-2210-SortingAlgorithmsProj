@@ -9,18 +9,18 @@
 //
 ///////////////////////////////////////////////////////////////////////////////
 #endregion
-
-
-
-
-
-
-
-
-
-
-
-
+using System;
+namespace Project2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Clear(); // Clear the console
+            IntegerSort.SortUsingIntegers();
+        }
+    }
+}
 
 
 

@@ -9,6 +9,7 @@
 //
 ///////////////////////////////////////////////////////////////////////////////
 #endregion
+using System.Diagnostics.Contracts;
 using System.Globalization;
 namespace LoadTestData
 {
@@ -19,7 +20,7 @@ namespace LoadTestData
         /// Loads the integer test data.
         /// </summary>
         /// <returns>a list of Integers to be sorted</returns>
-        public List<int> LoadIntegerTestData(string filePath)
+        public static List<int> LoadIntegerTestData(string filePath)
         {
             // Load test data here
             List<int> testData = new List<int>();
@@ -40,6 +41,7 @@ namespace LoadTestData
                     }
                 }
             }
+            #region catches
             catch (InvalidCastException ex)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -64,6 +66,7 @@ namespace LoadTestData
                 Console.WriteLine(ex.Message);
                 Console.ResetColor();
             }
+            #endregion
             return testData;
         }
 
@@ -72,7 +75,7 @@ namespace LoadTestData
         /// Gets the file paths of the integer test data files
         /// </summary>
         /// <returns>an array of file paths</returns>
-        private string[] GetIntDataFiles()
+        public static string[] GetIntDataFiles()
         {
             string intDataPaths = @".\TestData\IntegerData\";
             string[] files = Directory.GetFiles(intDataPaths);
@@ -91,10 +94,12 @@ namespace LoadTestData
         /// Gets the file paths of the book test data files
         /// </summary>
         /// <returns>an array of file paths</returns>
-        private string[] GetBookDataFiles()
+        private static string[] GetBookDataFiles()
         {
             string bookDataPaths = @".\TestData\BookData\";
             string[] files = Directory.GetFiles(bookDataPaths);
+
+
             foreach (string file in files)
             {
                 Console.ForegroundColor = ConsoleColor.DarkGray;

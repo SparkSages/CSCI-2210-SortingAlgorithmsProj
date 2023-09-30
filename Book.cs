@@ -51,7 +51,7 @@ namespace Books
             return new Book(lastName, firstName, title, releaseDate);
         }
 
-        public static bool TryParse(string str, out Book book)
+        public static bool TryParse(string str, out Book? book)
         {
             try
             {
@@ -65,8 +65,12 @@ namespace Books
             }
         }
 
-        public int CompareTo(Book other)
+        public int CompareTo(Book? other)
         {
+            if (other is null)
+            {
+                return 1;
+            }
 
             // Compare by last name
             int lastNameComparison = string.Compare(this.LastName, other.LastName, StringComparison.Ordinal);
