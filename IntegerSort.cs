@@ -9,13 +9,19 @@ public abstract class IntegerSort
 {
     public static void SortUsingIntegers()
     {
+        StreamWriter csvWriter = new StreamWriter("sortingCSV.csv");
+        csvWriter.WriteLine("File Name, Average Time Elapsed");
         string[] intFilePaths = TestDataLoader.GetIntDataFiles();
         List<List<int>> intList = new();
         foreach (string s in intFilePaths)
         {
             intList.Add(TestDataLoader.LoadIntegerTestData(s));
         }
+        int filePathIndex = 0;
 
+        /// <summary>
+        /// Bubble Sort
+        /// </summary>
         foreach (List<int> list in intList)
         {
             List<int> unsortedList = list;
@@ -46,10 +52,15 @@ public abstract class IntegerSort
                 System.Console.WriteLine($"Accumulated Time: {accumulatedTime}ms");
                 Console.ResetColor();
             }
+            csvWriter.WriteLine($"{intFilePaths[filePathIndex]},{accumulatedTime / 5}");
+            filePathIndex++;
             Console.ForegroundColor = ConsoleColor.Yellow;
             System.Console.WriteLine($"Average Time: {accumulatedTime / 5}ms\n\n");
-            unsortedList = list;
             Console.ResetColor();
         }
     }
+
+
+
+
 }
