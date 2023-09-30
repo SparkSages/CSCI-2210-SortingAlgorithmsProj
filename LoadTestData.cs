@@ -14,6 +14,11 @@ namespace LoadTestData
 {
     public class TestDataLoader
     {
+
+        /// <summary>
+        /// Loads the integer test data.
+        /// </summary>
+        /// <returns>a list of Integers to be sorted</returns>
         public List<int> LoadIntegerTestData(string filePath)
         {
             // Load test data here
@@ -34,7 +39,6 @@ namespace LoadTestData
                         Console.WriteLine($"Skipping non-integer line: {line}");
                     }
                 }
-
             }
             catch (InvalidCastException ex)
             {
@@ -64,5 +68,42 @@ namespace LoadTestData
         }
 
 
+        /// <summary>
+        /// Gets the file paths of the integer test data files
+        /// </summary>
+        /// <returns>an array of file paths</returns>
+        private string[] GetIntDataFiles()
+        {
+            string intDataPaths = @".\TestData\IntegerData\";
+            string[] files = Directory.GetFiles(intDataPaths);
+            foreach (string file in files)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.Write("File Found: ");
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write(file + "\n");
+                Console.ResetColor();
+            }
+            return files;
+        }
+
+        /// <summary>
+        /// Gets the file paths of the book test data files
+        /// </summary>
+        /// <returns>an array of file paths</returns>
+        private string[] GetBookDataFiles()
+        {
+            string bookDataPaths = @".\TestData\BookData\";
+            string[] files = Directory.GetFiles(bookDataPaths);
+            foreach (string file in files)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.Write("File Found: ");
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write(file + "\n");
+                Console.ResetColor();
+            }
+            return files;
+        }
     }
 }
