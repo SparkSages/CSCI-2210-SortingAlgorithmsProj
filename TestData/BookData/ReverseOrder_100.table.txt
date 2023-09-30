@@ -1,0 +1,104 @@
++-------------+--------------+-------------------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                             | Release Date   |
+|-------------+--------------+-------------------------------------------------------------------+----------------|
+| Young       | Samuel       | Enigma Lucas Thornton                                             | 2006-07-09     |
+| Wright      | Grace        | City of Rural Isolated Greenbriar Estates                         | 1937-11-20     |
+| Wright      | Grace        | City of Rural Isolated Greenbriar Estates                         | 1905-05-13     |
+| Williams    | Victoria     | Rise of Urban Evergreen Valley                                    | 1955-06-02     |
+| White       | Isabella     | Adventures in Grace Mitchell                                      | 1982-03-11     |
+| Watson      | Elizabeth    | City of Isabella Montgomery                                       | 1959-09-22     |
+| Watson      | Elijah       | Mia Sullivan's Stonebridge Ridge                                  | 2003-09-24     |
+| Watson      | Elijah       | Mia Sullivan's Stonebridge Ridge                                  | 1968-11-24     |
+| Ward        | Natalie      | Quest for the Ava Harrison                                        | 1998-06-08     |
+| Walker      | Mia          | Legends of Harper Nelson                                          | 1992-01-11     |
+| Walker      | Mia          | Legends of Harper Nelson                                          | 1978-06-04     |
+| Turner      | Mia          | Echoes of Ava Harrison                                            | 1951-11-05     |
+| Torres      | Henry        | Whispering Pristine Rustic Lakeshore Landing                      | 1973-02-03     |
+| Smith       | Natalie      | Enigma Charming Hidden Ashwood Terrace                            | 1907-01-13     |
+| Sanders     | Elizabeth    | King's Birchwood Springs                                          | 1949-10-05     |
+| Sanders     | Abigail      | Chronicles of Sunflower Valley                                    | 2018-07-20     |
+| Sanders     | Abigail      | Chronicles of Sunflower Valley                                    | 1915-10-01     |
+| Sanchez     | Benjamin     | Dreams in the Caleb Reynolds                                      | 1985-02-02     |
+| Ross        | Lily         | Daniel Brooks's Artistic Laurelwood Glen                          | 1962-08-17     |
+| Ross        | Lily         | Daniel Brooks's Artistic Laurelwood Glen                          | 1921-02-06     |
+| Robinson    | Charlotte    | Lost in Time Charming Magical Tranquil Woodland Park              | 1907-06-04     |
+| Richardson  | Charlotte    | Dark Secrets William Carter                                       | 1927-02-05     |
+| Richardson  | Charlotte    | Dark Secrets William Carter                                       | 1911-07-20     |
+| Reyes       | Alexander    | Ancient Cosmopolitan Willowbrook Park                             | 2010-09-03     |
+| Ramirez     | Scarlett     | William Carter's Golden Valley Meadows                            | 2015-03-13     |
+| Ramirez     | Scarlett     | William Carter's Golden Valley Meadows                            | 1952-05-12     |
+| Ramirez     | Scarlett     | William Carter's Golden Valley Meadows                            | 1911-12-11     |
+| Ramirez     | Scarlett     | William Carter's Golden Valley Meadows                            | 1903-09-21     |
+| Ramirez     | Mia          | Beyond the Pictorial Timeless Hidden Stonegate Terrace            | 1997-11-11     |
+| Ramirez     | Mia          | Beyond the Pictorial Timeless Hidden Stonegate Terrace            | 1953-01-07     |
+| Ramirez     | Henry        | Realm of Urban Ancient Willowridge Crossing                       | 1954-10-18     |
+| Ramirez     | Henry        | Realm of Urban Ancient Willowridge Crossing                       | 1936-07-05     |
+| Price       | William      | Chronicles from Ancient Secluded Picturesque Lakeside Terrace     | 1959-02-03     |
+| Peterson    | Emma         | Legends of Lucas Thornton                                         | 1915-04-18     |
+| Patel       | Natalie      | Secrets of Tranquil Urban Golden Valley Meadows                   | 1920-06-22     |
+| Parker      | Benjamin     | Lost in Time Isabella Montgomery                                  | 1901-01-18     |
+| Nelson      | Liam         | Dark Secrets Lucas Thornton                                       | 1932-06-01     |
+| Myers       | Ethan        | Secrets of Springvale Meadows                                     | 1967-04-11     |
+| Murphy      | William      | Henry Crawford's Wonderful Contemporary Vibrant Willowbrook Grove | 1998-12-01     |
+| Murphy      | Andrew       | Benjamin Mitchell's Brookside Meadows                             | 2007-08-09     |
+| Murphy      | Andrew       | Benjamin Mitchell's Brookside Meadows                             | 2004-01-21     |
+| Morris      | Jackson      | Ava Harrison's Lakeside Terrace                                   | 1998-01-11     |
+| Morgan      | Benjamin     | Quest for Daniel Brooks                                           | 1954-08-09     |
+| Morgan      | Benjamin     | Quest for Daniel Brooks                                           | 1926-07-15     |
+| Morgan      | Benjamin     | Quest for Daniel Brooks                                           | 1910-01-09     |
+| Morales     | Ella         | Gates of Alexander Foster                                         | 1957-03-02     |
+| Moore       | Olivia       | Lost and Found Lucas Thornton                                     | 1964-11-16     |
+| Moore       | Olivia       | Lost and Found Lucas Thornton                                     | 1963-10-04     |
+| Moore       | Aiden        | Charlotte Taylor's Tranquil Pristine Urban Crestview Heights      | 1985-12-11     |
+| Miller      | Zoe          | Bloodlines Emily Hayes                                            | 1950-05-15     |
+| Miller      | Zoe          | Bloodlines Emily Hayes                                            | 1945-01-13     |
+| Miller      | Aiden        | Hidden Historical Pictorial Majestic Stonegate Terrace            | 1910-01-04     |
+| Lewis       | Samuel       | Quest for the Sophia Parker                                       | 1942-02-07     |
+| Lee         | Alexander    | Journey through Daniel Brooks                                     | 1943-12-21     |
+| King        | Scarlett     | Hidden Grace Mitchell                                             | 2020-06-18     |
+| King        | Scarlett     | Hidden Grace Mitchell                                             | 1982-02-04     |
+| King        | Scarlett     | Hidden Grace Mitchell                                             | 1958-09-05     |
+| King        | Ava          | Secrets of Quaint Rivertown Crossing                              | 1999-02-14     |
+| King        | Ava          | Secrets of Quaint Rivertown Crossing                              | 1962-05-03     |
+| King        | Ava          | Secrets of Quaint Rivertown Crossing                              | 1962-02-12     |
+| King        | Ava          | Secrets of Quaint Rivertown Crossing                              | 1941-10-16     |
+| Kim         | James        | Chronicles Lucas Thornton                                         | 1911-10-08     |
+| Jimenez     | Ethan        | Journey through Pristine Tranquil Fairhaven Fields                | 1940-09-21     |
+| Jimenez     | Emily        | Lily Anderson's Modern Lush Riverstone Ranch                      | 2001-12-01     |
+| Jimenez     | Emily        | Lily Anderson's Modern Lush Riverstone Ranch                      | 1984-06-15     |
+| Jimenez     | Emily        | Lily Anderson's Modern Lush Riverstone Ranch                      | 1950-01-18     |
+| Jimenez     | Amelia       | Dreams in the Ava Harrison                                        | 1921-09-22     |
+| James       | Jackson      | Forgotten Alexander Foster                                        | 2005-06-03     |
+| James       | Jackson      | Forgotten Alexander Foster                                        | 1902-08-01     |
+| Hughes      | Sophia       | William Carter's Vintage Riverstone Ranch                         | 2010-09-17     |
+| Hughes      | Sophia       | William Carter's Vintage Riverstone Ranch                         | 1994-09-09     |
+| Hill        | Caleb        | Bloodlines Isabella Montgomery                                    | 1973-09-17     |
+| Hill        | Caleb        | Bloodlines Isabella Montgomery                                    | 1940-11-04     |
+| Gray        | Henry        | Gates of Pictorial Surreal Pineview Cove                          | 1975-03-13     |
+| Gray        | Henry        | Gates of Pictorial Surreal Pineview Cove                          | 1951-06-20     |
+| Gray        | Henry        | Gates of Pictorial Surreal Pineview Cove                          | 1919-11-23     |
+| Gonzales    | Liam         | Quest for the Caleb Reynolds                                      | 1942-06-24     |
+| Garcia      | Henry        | Grace Mitchell's Inviting Evergreen Valley                        | 1962-09-20     |
+| Foster      | Daniel       | Magic Magical Crestwood Hills                                     | 1930-03-22     |
+| Diaz        | Isabella     | Chronicles of Stonebridge Ridge                                   | 1992-12-11     |
+| Diaz        | Isabella     | Chronicles of Stonebridge Ridge                                   | 1985-01-12     |
+| Diaz        | Grace        | Dark Secrets Charlotte Taylor                                     | 1917-05-10     |
+| Diaz        | Elizabeth    | Quest for the Cosmopolitan Springvale Meadows                     | 1968-11-08     |
+| Cruz        | Olivia       | Secrets of Isabella Montgomery                                    | 1912-07-22     |
+| Cook        | William      | Lost and Found Benjamin Mitchell                                  | 1989-06-09     |
+| Collins     | Caleb        | Legacy from Vintage Hidden Willowdale Heights                     | 1961-07-02     |
+| Collins     | Caleb        | Legacy from Vintage Hidden Willowdale Heights                     | 1917-09-22     |
+| Chavez      | Sophia       | Caleb Reynolds's Urban Lush Autumnwood Grove                      | 2019-01-01     |
+| Chavez      | Ella         | Curse of Majestic Idyllic Harborview Point                        | 1929-09-07     |
+| Castillo    | Samuel       | Daniel Brooks's Brookside Haven                                   | 2012-01-12     |
+| Castillo    | Samuel       | Daniel Brooks's Brookside Haven                                   | 1998-07-10     |
+| Castillo    | Ella         | Kingdom Henry Crawford                                            | 1949-09-19     |
+| Castillo    | Ella         | Kingdom Henry Crawford                                            | 1949-01-04     |
+| Castillo    | Ella         | Kingdom Henry Crawford                                            | 1920-12-20     |
+| Carter      | Mia          | Lost and Found Henry Crawford                                     | 1995-11-24     |
+| Brown       | Elijah       | Echoes of Grace Mitchell                                          | 1983-09-21     |
+| Bennet      | Victoria     | Chronicles from Ancient Enchanting Whimsical Silverlake Springs   | 1986-03-18     |
+| Bennet      | Victoria     | Chronicles from Ancient Enchanting Whimsical Silverlake Springs   | 1905-11-23     |
+| Baker       | David        | Emily Hayes's Magical Enchanting Riverstone Ranch                 | 1993-06-10     |
+| Adams       | Samuel       | Alexander Foster's Willowbrook Grove                              | 1975-09-19     |
++-------------+--------------+-------------------------------------------------------------------+----------------+

@@ -1,0 +1,14 @@
++-------------+--------------+-----------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                     | Release Date   |
+|-------------+--------------+-----------------------------------------------------------+----------------|
+| Torres      | Isabella     | Ethan Wells's Timeless Rivertown Crossing                 | 1988-09-02     |
+| Torres      | Isabella     | Ethan Wells's Timeless Rivertown Crossing                 | 1971-08-18     |
+| Torres      | Isabella     | Ethan Wells's Timeless Rivertown Crossing                 | 1916-09-09     |
+| Ross        | Ella         | Gates of Welcoming Pinecrest Pines                        | 1907-04-21     |
+| Peterson    | Olivia       | Quest for Cosmopolitan Woodland Park                      | 1998-03-01     |
+| Parker      | Sophia       | Starlight Grace Mitchell                                  | 1962-04-13     |
+| Morgan      | Jackson      | Mystery Maplewood Meadows                                 | 2017-08-10     |
+| Morgan      | Jackson      | Mystery Maplewood Meadows                                 | 1910-02-05     |
+| Morgan      | Elijah       | Starlight Crestview Heights                               | 1928-11-16     |
+| Cox         | Michael      | Journey through Secluded Remote Eclectic Autumnwood Grove | 1952-02-17     |
++-------------+--------------+-----------------------------------------------------------+----------------+

@@ -1,0 +1,104 @@
++-------------+--------------+------------------------------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                                        | Release Date   |
+|-------------+--------------+------------------------------------------------------------------------------+----------------|
+| Perez       | Amelia       | Journey through Ethan Wells                                                  | 1948-01-09     |
+| Hughes      | Benjamin     | Enchanted Benjamin Mitchell                                                  | 1941-06-05     |
+| Edwards     | Sophia       | Beyond the Ethan Wells                                                       | 2021-02-05     |
+| Ramirez     | Zoe          | Beyond the Benjamin Mitchell                                                 | 1988-02-17     |
+| Sanchez     | William      | Sophia Parker's Urban Tranquil Vibrant Crestview Heights                     | 1966-12-05     |
+| Hughes      | Scarlett     | Daniel Brooks's Scenic Hidden Remote Brookside Haven                         | 1903-09-10     |
+| Thompson    | David        | Ancient William Carter                                                       | 1996-10-02     |
+| Clark       | Samuel       | Secrets in the Lily Anderson                                                 | 1959-01-22     |
+| James       | Harper       | Underneath Isolated Wonderful Magical Willowdale Heights                     | 1909-10-09     |
+| James       | Olivia       | Samuel Griffin's Welcoming Whimsical Brookside Meadows                       | 2021-04-11     |
+| Thomas      | Noah         | Journey to Lush Secluded Lakeshore Landing                                   | 1998-11-02     |
+| Hughes      | Grace        | Lost and Found Breathtaking Remote Stonebridge Ridge                         | 1960-05-20     |
+| Myers       | Ella         | Songs from Enigmatic Pictorial Hidden Riverstone Ranch                       | 1928-02-12     |
+| Hernandez   | Elijah       | Secrets in the Secluded Birchwood Springs                                    | 1959-06-19     |
+| Peterson    | Sophia       | Enigma Alexander Foster                                                      | 1965-04-05     |
+| Mitchell    | Abigail      | Legacy from Tranquil Magical Meadowbrook Springs                             | 1953-01-05     |
+| Carter      | Emma         | William Carter's Enigmatic Enchanting Rustic Meadowbrook Springs             | 1904-07-13     |
+| Davis       | Aiden        | Mia Sullivan's Sprawling Isolated Remote Willowbrook Park                    | 1958-03-11     |
+| Alvarez     | Noah         | Daniel Brooks's Laurelwood Glen                                              | 1962-08-03     |
+| Collins     | Emily        | Enigma Lakeshore Landing                                                     | 1962-05-23     |
+| Turner      | Grace        | Whispering Remote Magical Golden Valley Meadows                              | 1939-09-02     |
+| Lopez       | Ethan        | Dreams of Urban Brookside Haven                                              | 1951-10-06     |
+| Edwards     | Sophia       | Beyond the Ethan Wells                                                       | 1969-05-05     |
+| Ramos       | Noah         | In the Shadow of Henry Crawford                                              | 1903-08-18     |
+| Ruiz        | Michael      | Echoes of Emily Hayes                                                        | 1942-04-19     |
+| Green       | Lily         | Whispers from Ava Harrison                                                   | 1978-12-14     |
+| Williams    | James        | Benjamin Mitchell's Redwood Ridge                                            | 1926-03-23     |
+| Diaz        | Natalie      | Enigma Caleb Reynolds                                                        | 1992-06-22     |
+| Rodriguez   | Samuel       | Lost in Time William Carter                                                  | 1967-11-05     |
+| Johnson     | Noah         | In the Shadow of Crestwood Hills                                             | 1992-01-02     |
+| Hughes      | Grace        | Lost and Found Breathtaking Remote Stonebridge Ridge                         | 1934-01-15     |
+| Allen       | Emily        | Dreams of Charming Contemporary Springvale Meadows                           | 1988-04-11     |
+| Richardson  | Mia          | Olivia Bennett's Peaceful Vibrant Meadowview Heights                         | 1924-04-08     |
+| Mitchell    | Abigail      | Legacy from Tranquil Magical Meadowbrook Springs                             | 2020-03-06     |
+| Thomas      | Scarlett     | Dreams in the Lush Colorful Millstone Meadows                                | 1910-05-23     |
+| Chavez      | Jackson      | Magic Charlotte Taylor                                                       | 1958-01-05     |
+| Cruz        | William      | Tales from Enchanting Golden Valley Meadows                                  | 1985-04-08     |
+| Diaz        | Isabella     | Ancient Birchwood Springs                                                    | 1940-07-22     |
+| James       | Harper       | Underneath Isolated Wonderful Magical Willowdale Heights                     | 1903-02-12     |
+| Thompson    | David        | Ancient William Carter                                                       | 2012-08-23     |
+| Gonzales    | Isabella     | Legacy from Samuel Griffin                                                   | 2005-03-04     |
+| Hughes      | Scarlett     | Daniel Brooks's Scenic Hidden Remote Brookside Haven                         | 1941-11-04     |
+| Kelly       | Isabella     | Ancient Charming Secluded Vintage Pinehurst Park                             | 1990-03-10     |
+| Collins     | Mason        | Dreams in the Charlotte Taylor                                               | 1966-02-23     |
+| Howard      | Lucas        | Curse of Inviting Coastal Crestview Heights                                  | 1954-07-14     |
+| Jackson     | Daniel       | Echoes Picturesque Willowridge Crossing                                      | 1959-11-18     |
+| Bailey      | Grace        | Samuel Griffin's Remote Colorful Stonegate Terrace                           | 1989-12-06     |
+| Alvarez     | William      | Songs from Henry Crawford                                                    | 1982-02-19     |
+| Young       | Andrew       | Lost in Time Harper Nelson                                                   | 1936-07-09     |
+| Gray        | William      | Whispers from Historical Hidden Greenbriar Estates                           | 2017-01-16     |
+| Peterson    | Natalie      | Olivia Bennett's Pictorial Brookside Haven                                   | 1946-03-17     |
+| Clark       | Samuel       | Secrets in the Lily Anderson                                                 | 1988-04-08     |
+| Reyes       | David        | Harper Nelson's Meadowbrook Springs                                          | 1997-11-21     |
+| Hill        | David        | Ava Harrison's Captivating Whispering Pines                                  | 1987-05-17     |
+| James       | Olivia       | Samuel Griffin's Welcoming Whimsical Brookside Meadows                       | 2000-07-10     |
+| Davis       | Aiden        | Mia Sullivan's Sprawling Isolated Remote Willowbrook Park                    | 1941-01-07     |
+| Torres      | Victoria     | City of Lily Anderson                                                        | 1968-04-24     |
+| Gonzales    | Harper       | Alexander Foster's Willowbrook Park                                          | 1955-03-14     |
+| Brown       | Henry        | Starlight Sophia Parker                                                      | 2019-08-24     |
+| Johnson     | Noah         | In the Shadow of Crestwood Hills                                             | 1976-08-16     |
+| Gomez       | William      | Mystery Colorful Whispering Pines                                            | 1995-08-19     |
+| Kim         | Caleb        | Grace Mitchell's Cosmopolitan Stonebridge Ridge                              | 1904-11-08     |
+| Richardson  | Elizabeth    | Lucas Thornton's Captivating Peaceful Colorful Hillcrest Glen                | 2017-04-24     |
+| Allen       | Emily        | Dreams of Charming Contemporary Springvale Meadows                           | 1952-06-20     |
+| Hill        | David        | Ava Harrison's Captivating Whispering Pines                                  | 2018-04-14     |
+| Wilson      | William      | Journey through Ava Harrison                                                 | 1978-06-07     |
+| Torres      | Victoria     | City of Lily Anderson                                                        | 1901-07-18     |
+| Hill        | Sophia       | Charlotte Taylor's Breathtaking Whimsical Contemporary Golden Valley Meadows | 1913-06-05     |
+| Ramos       | Victoria     | Enchanted Alexander Foster                                                   | 1960-09-15     |
+| Turner      | Grace        | Whispering Remote Magical Golden Valley Meadows                              | 1973-09-18     |
+| Clark       | Charlotte    | Rise of Emily Hayes                                                          | 1963-02-10     |
+| Wilson      | Victoria     | Echoes of Samuel Griffin                                                     | 1939-04-19     |
+| Cooper      | Lily         | Secrets in the Emily Hayes                                                   | 1958-11-17     |
+| Brown       | Emily        | Sophia Parker's Willowdale Heights                                           | 1985-08-07     |
+| Mitchell    | Abigail      | Legacy from Tranquil Magical Meadowbrook Springs                             | 1940-05-03     |
+| Evans       | Caleb        | Enigma Olivia Bennett                                                        | 1979-02-06     |
+| Myers       | Ella         | Songs from Enigmatic Pictorial Hidden Riverstone Ranch                       | 1961-07-20     |
+| King        | Olivia       | Sophia Parker's Historical Hidden Oakridge Bluffs                            | 2008-06-22     |
+| Perez       | Amelia       | Journey through Ethan Wells                                                  | 1997-12-19     |
+| Clark       | Charlotte    | Rise of Emily Hayes                                                          | 1962-11-14     |
+| Mendoza     | Benjamin     | Songs of Lucas Thornton                                                      | 1917-09-18     |
+| Clark       | Samuel       | Secrets in the Lily Anderson                                                 | 2016-11-17     |
+| Long        | William      | Alexander Foster's Oakridge Bluffs                                           | 1943-10-12     |
+| Rivera      | Elijah       | Tales from Tranquil Enchanting Vibrant Willowdale Heights                    | 1977-05-14     |
+| Bailey      | Grace        | Mia Sullivan's Charming Remote Rivertown Crossing                            | 1969-01-17     |
+| Wood        | Sophia       | Grace Mitchell's Colorful Remote Secluded Fairhaven Fields                   | 2000-09-15     |
+| Sanchez     | William      | Sophia Parker's Urban Tranquil Vibrant Crestview Heights                     | 1969-07-02     |
+| Clark       | Samuel       | Secrets in the Lily Anderson                                                 | 1961-03-18     |
+| Moore       | Zoe          | Lost and Found Ava Harrison                                                  | 1972-02-07     |
+| Long        | William      | Alexander Foster's Oakridge Bluffs                                           | 1959-12-20     |
+| Hughes      | Samuel       | Rise of Mia Sullivan                                                         | 1937-01-20     |
+| Alvarez     | Noah         | Daniel Brooks's Laurelwood Glen                                              | 1912-11-24     |
+| Wright      | Victoria     | Whispers from Ava Harrison                                                   | 1986-05-14     |
+| Ramirez     | Zoe          | Beyond the Benjamin Mitchell                                                 | 2000-01-17     |
+| Turner      | Grace        | Whispering Remote Magical Golden Valley Meadows                              | 1903-11-20     |
+| King        | Benjamin     | Rise of Whispering Pines                                                     | 1925-05-17     |
+| Hall        | Natalie      | Secrets of Charming Wonderful Idyllic Autumnwood Grove                       | 1910-12-10     |
+| Alvarez     | Sophia       | Kingdom Ava Harrison                                                         | 1959-04-07     |
+| Howard      | Lucas        | Curse of Inviting Coastal Crestview Heights                                  | 1933-01-20     |
+| Phillips    | Benjamin     | Emily Hayes's Fairhaven Fields                                               | 1933-04-14     |
++-------------+--------------+------------------------------------------------------------------------------+----------------+

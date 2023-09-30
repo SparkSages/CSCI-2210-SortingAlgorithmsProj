@@ -1,0 +1,14 @@
++-------------+--------------+----------------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                          | Release Date   |
+|-------------+--------------+----------------------------------------------------------------+----------------|
+| Lewis       | Sophia       | Lost and Found Coastal Picturesque Welcoming Maplewood Meadows | 1981-09-16     |
+| Bailey      | Harper       | Chronicles Vibrant Springvale Meadows                          | 2020-05-20     |
+| Gray        | Lily         | Daniel Brooks's Captivating Historical Willowdale Heights      | 1956-08-08     |
+| Bailey      | Harper       | Chronicles Vibrant Springvale Meadows                          | 1968-03-22     |
+| Martin      | Samuel       | Alexander Foster's Quaint Vintage Coastal Willowridge Crossing | 1977-06-23     |
+| Patel       | Sophia       | Ava Harrison's Willowbrook Grove                               | 1952-11-16     |
+| Patel       | Sophia       | Ava Harrison's Willowbrook Grove                               | 2004-01-03     |
+| Phillips    | William      | Secrets in the Lily Anderson                                   | 1906-03-24     |
+| Phillips    | William      | Secrets in the Lily Anderson                                   | 1966-12-17     |
+| Roberts     | Emma         | Chronicles from Henry Crawford                                 | 1976-11-03     |
++-------------+--------------+----------------------------------------------------------------+----------------+

@@ -1,0 +1,104 @@
++-------------+--------------+------------------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                            | Release Date   |
+|-------------+--------------+------------------------------------------------------------------+----------------|
+| Adams       | Emma         | Ancient Vibrant Golden Valley Meadows                            | 1979-05-20     |
+| Baker       | James        | Journey through Isolated Enigmatic Captivating Crestview Heights | 1923-05-06     |
+| Bennet      | Benjamin     | Quest for the Mia Sullivan                                       | 1924-11-10     |
+| Nelson      | Grace        | Harper Nelson's Urban Laurelwood Glen                            | 1974-04-21     |
+| Bennet      | Benjamin     | Quest for the Mia Sullivan                                       | 1965-05-09     |
+| Carter      | Victoria     | Magic Emily Hayes                                                | 1965-06-13     |
+| Carter      | Victoria     | Magic Emily Hayes                                                | 1985-03-09     |
+| Clark       | Elizabeth    | Journey to Timeless Inviting Hidden Whispering Pines             | 1917-04-13     |
+| Rivera      | Noah         | Enigma Urban Greenbriar Estates                                  | 2018-01-14     |
+| Cook        | Caleb        | Gates of Cosmopolitan Ancient Rustic Sunflower Valley            | 1981-12-18     |
+| Cook        | Caleb        | Gates of Cosmopolitan Ancient Rustic Sunflower Valley            | 1989-01-20     |
+| Cox         | Henry        | King's Benjamin Mitchell                                         | 1950-11-21     |
+| Cox         | Henry        | King's Benjamin Mitchell                                         | 1967-08-16     |
+| Cox         | Henry        | King's Benjamin Mitchell                                         | 1980-09-01     |
+| Cruz        | Liam         | City of Harper Nelson                                            | 1926-04-19     |
+| Flores      | Harper       | Rise of Stonegate Terrace                                        | 1913-05-21     |
+| Flores      | Harper       | Rise of Stonegate Terrace                                        | 1992-12-03     |
+| Gomez       | David        | Adventures in Lily Anderson                                      | 1913-08-04     |
+| Gomez       | Lily         | Starlight Tranquil Exotic Enchanting Birchwood Springs           | 2018-10-23     |
+| Gonzales    | Elizabeth    | Legacy of Historical Serene Birchwood Springs                    | 1950-04-16     |
+| Gray        | Elijah       | Mia Sullivan's Exotic Colorful Exotic Greenbriar Estates         | 1959-02-15     |
+| Harris      | Natalie      | Legacy from Rivertown Crossing                                   | 1951-08-04     |
+| Hernandez   | Mia          | Echoes Lush Coastal Stonebridge Ridge                            | 2006-06-20     |
+| Hughes      | Ella         | Benjamin Mitchell's Ancient Redwood Ridge                        | 1911-11-08     |
+| Hughes      | Ella         | Benjamin Mitchell's Ancient Redwood Ridge                        | 1960-03-03     |
+| Hughes      | Ella         | Benjamin Mitchell's Ancient Redwood Ridge                        | 1991-06-15     |
+| Long        | Jackson      | Grace Mitchell's Pictorial Remote Enchanting Brookside Haven     | 1953-03-19     |
+| James       | Jackson      | Voyage to Harper Nelson                                          | 1911-07-18     |
+| James       | Jackson      | Voyage to Harper Nelson                                          | 1913-01-06     |
+| James       | Jackson      | Voyage to Harper Nelson                                          | 2008-10-21     |
+| Johnson     | Harper       | Grace Mitchell's Hidden Picturesque Pictorial Lakeside Terrace   | 1906-12-16     |
+| Walker      | Charlotte    | Bloodlines Rural Stonebridge Ridge                               | 1939-01-15     |
+| Rivera      | Noah         | Enigma Urban Greenbriar Estates                                  | 1951-03-23     |
+| Lee         | Noah         | Samuel Griffin's Inviting Wonderful Laurelwood Glen              | 1965-10-17     |
+| Lee         | Noah         | Samuel Griffin's Inviting Wonderful Laurelwood Glen              | 1987-12-20     |
+| Lewis       | Abigail      | Daniel Brooks's Serene Remote Rivertown Crossing                 | 1950-10-02     |
+| Long        | Harper       | Realm of Whimsical Brookside Meadows                             | 1995-03-14     |
+| Long        | Jackson      | Grace Mitchell's Pictorial Remote Enchanting Brookside Haven     | 1923-09-10     |
+| Jackson     | Benjamin     | Songs of Remote Crestview Heights                                | 1910-06-19     |
+| Long        | Jackson      | Grace Mitchell's Pictorial Remote Enchanting Brookside Haven     | 1976-11-10     |
+| Long        | Lily         | Quest for the Ashwood Terrace                                    | 1969-05-04     |
+| Lopez       | Grace        | Ava Harrison's Oakridge Bluffs                                   | 2015-02-09     |
+| Lopez       | Grace        | Ava Harrison's Oakridge Bluffs                                   | 2021-12-04     |
+| Lopez       | Victoria     | Starlight Charming Scenic Historical Maplewood Meadows           | 1967-02-23     |
+| Lopez       | Victoria     | Starlight Charming Scenic Historical Maplewood Meadows           | 1991-11-06     |
+| Miller      | Harper       | Lucas Thornton's Enchanting Tranquil Modern Stonebridge Ridge    | 1909-03-17     |
+| Miller      | Harper       | Lucas Thornton's Enchanting Tranquil Modern Stonebridge Ridge    | 2008-01-09     |
+| Moore       | Abigail      | Dark Secrets Daniel Brooks                                       | 1935-12-17     |
+| Moore       | Amelia       | Journey to Pinehurst Park                                        | 1901-07-17     |
+| Moore       | Ethan        | Daniel Brooks's Sprawling Enchanting Sunflower Valley            | 2003-05-08     |
+| Moore       | Sophia       | In the Shadow of Pictorial Rustic Cedarwood Heights              | 1980-08-24     |
+| Moore       | Zoe          | Quest for William Carter                                         | 1914-10-15     |
+| Morales     | Natalie      | Samuel Griffin's Sprawling Isolated Willowbrook Grove            | 1936-04-16     |
+| Morales     | Natalie      | Samuel Griffin's Sprawling Isolated Willowbrook Grove            | 1953-01-14     |
+| Morales     | Natalie      | Samuel Griffin's Sprawling Isolated Willowbrook Grove            | 1965-03-13     |
+| Parker      | Mia          | Lucas Thornton's Peaceful Lush Harborview Point                  | 1935-06-15     |
+| Morgan      | Samuel       | Journey through Brookside Meadows                                | 1991-12-17     |
+| Myers       | Olivia       | Dragon's Wonderful Secluded Harborview Point                     | 1912-05-04     |
+| Nelson      | Grace        | Harper Nelson's Urban Laurelwood Glen                            | 1903-02-20     |
+| Nelson      | Grace        | Harper Nelson's Urban Laurelwood Glen                            | 1923-10-02     |
+| Nelson      | Grace        | Harper Nelson's Urban Laurelwood Glen                            | 1933-05-05     |
+| Bennet      | Benjamin     | Quest for the Mia Sullivan                                       | 1964-09-06     |
+| Lee         | Noah         | Samuel Griffin's Inviting Wonderful Laurelwood Glen              | 1965-07-15     |
+| Nelson      | Samuel       | Charlotte Taylor's Exotic Quaint Urban Meadowbrook Springs       | 1970-09-11     |
+| Morales     | Natalie      | Samuel Griffin's Sprawling Isolated Willowbrook Grove            | 1997-03-09     |
+| Parker      | William      | Starlight Enchanting Wonderful Enigmatic Fairhaven Fields        | 2020-09-20     |
+| Perez       | Samuel       | Benjamin Mitchell's Urban Eclectic Meadowbrook Springs           | 1995-12-15     |
+| Walker      | Charlotte    | Bloodlines Rural Stonebridge Ridge                               | 1957-11-02     |
+| Ramirez     | Henry        | In the Shadow of Surreal Greenbriar Estates                      | 1984-03-21     |
+| Ramirez     | Henry        | In the Shadow of Surreal Greenbriar Estates                      | 1999-01-04     |
+| Reed        | David        | Songs of Ava Harrison                                            | 1966-05-12     |
+| Reyes       | Abigail      | Lily Anderson's Vintage Welcoming Remote Rivertown Crossing      | 1972-07-18     |
+| Reyes       | Abigail      | Lily Anderson's Vintage Welcoming Remote Rivertown Crossing      | 1999-09-07     |
+| Reyes       | James        | Ethan Wells's Eclectic Redwood Ridge                             | 1919-11-09     |
+| Cook        | Caleb        | Gates of Cosmopolitan Ancient Rustic Sunflower Valley            | 1975-04-04     |
+| Nelson      | Jackson      | Whispering Captivating Willowbrook Grove                         | 2009-03-01     |
+| Reyes       | James        | Ethan Wells's Eclectic Redwood Ridge                             | 1957-03-10     |
+| Ross        | Harper       | Ava Harrison's Vibrant Cosmopolitan Magical Whispering Pines     | 1903-12-23     |
+| Sanchez     | Jackson      | Ava Harrison's Historical Captivating Colorful Ashwood Terrace   | 1917-04-06     |
+| Sanchez     | Jackson      | Ava Harrison's Historical Captivating Colorful Ashwood Terrace   | 1935-01-09     |
+| Sanders     | Jackson      | Charlotte Taylor's Cosmopolitan Idyllic Laurelwood Glen          | 1921-06-20     |
+| Sanders     | Jackson      | Charlotte Taylor's Cosmopolitan Idyllic Laurelwood Glen          | 1954-12-18     |
+| Scott       | Henry        | Kingdom Daniel Brooks                                            | 1921-10-16     |
+| Scott       | Henry        | Kingdom Daniel Brooks                                            | 1937-08-04     |
+| Jones       | Mia          | Harper Nelson's Surreal Captivating Historical Brookside Meadows | 2014-06-07     |
+| Scott       | Henry        | Kingdom Daniel Brooks                                            | 2000-02-18     |
+| Stewart     | Samuel       | Quest for the Hidden Riverstone Ranch                            | 1961-10-07     |
+| Stewart     | Samuel       | Quest for the Hidden Riverstone Ranch                            | 2009-10-17     |
+| Torres      | Charlotte    | Beyond the Mia Sullivan                                          | 1986-11-07     |
+| Scott       | Henry        | Kingdom Daniel Brooks                                            | 1967-01-02     |
+| Ramirez     | Henry        | In the Shadow of Surreal Greenbriar Estates                      | 1973-04-14     |
+| Ward        | Elijah       | Mystery Rivertown Crossing                                       | 1909-07-20     |
+| Ward        | Elijah       | Mystery Rivertown Crossing                                       | 1988-06-04     |
+| Ward        | Elijah       | Mystery Rivertown Crossing                                       | 2018-02-08     |
+| Watson      | Lily         | Enchanted Alexander Foster                                       | 1912-01-24     |
+| White       | Samuel       | Ava Harrison's Tranquil Rivertown Crossing                       | 1923-01-10     |
+| White       | Samuel       | Ava Harrison's Tranquil Rivertown Crossing                       | 1965-01-23     |
+| Wood        | Isabella     | Caleb Reynolds's Crestwood Hills                                 | 1990-03-05     |
+| Wood        | Lucas        | Mia Sullivan's Exotic Pinehurst Park                             | 1978-08-23     |
+| Young       | William      | Adventures in Alexander Foster                                   | 1956-08-19     |
++-------------+--------------+------------------------------------------------------------------+----------------+

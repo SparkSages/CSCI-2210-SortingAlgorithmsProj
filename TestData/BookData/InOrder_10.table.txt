@@ -1,0 +1,14 @@
++-------------+--------------+------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                | Release Date   |
+|-------------+--------------+------------------------------------------------------+----------------|
+| Bennet      | Mia          | Bloodlines Lakeside Terrace                          | 1996-02-04     |
+| Evans       | Jackson      | William Carter's Surreal Wonderful Stonegate Terrace | 1939-07-03     |
+| Evans       | Jackson      | William Carter's Surreal Wonderful Stonegate Terrace | 1964-09-12     |
+| Evans       | Jackson      | William Carter's Surreal Wonderful Stonegate Terrace | 1995-11-11     |
+| Foster      | Charlotte    | William Carter's Greenbriar Estates                  | 1956-06-12     |
+| Foster      | Charlotte    | William Carter's Greenbriar Estates                  | 1988-05-16     |
+| Garcia      | Mia          | Ava Harrison's Isolated Maplewood Meadows            | 1994-12-23     |
+| Hill        | Grace        | Chronicles of Charming Charming Ashwood Terrace      | 1927-02-01     |
+| Hill        | Harper       | Destiny's Ava Harrison                               | 2001-02-07     |
+| Lewis       | Ella         | Ethan Wells's Historical Brookside Meadows           | 1921-05-20     |
++-------------+--------------+------------------------------------------------------+----------------+

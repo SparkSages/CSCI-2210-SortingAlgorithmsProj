@@ -1,0 +1,14 @@
++-------------+--------------+-----------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                     | Release Date   |
+|-------------+--------------+-----------------------------------------------------------+----------------|
+| King        | Noah         | City of Alexander Foster                                  | 1994-02-11     |
+| Reed        | Emma         | Dragon's Redwood Ridge                                    | 2015-06-03     |
+| Wilson      | Olivia       | Chronicles from Olivia Bennett                            | 1946-07-07     |
+| Alvarez     | Ella         | Mystery Vibrant Laurelwood Glen                           | 1974-02-06     |
+| Garcia      | Michael      | Harper Nelson's Coastal Secluded Scenic Ashwood Terrace   | 1945-02-21     |
+| Watson      | Elijah       | Lost in Time Lily Anderson                                | 2009-09-20     |
+| Davis       | William      | Charlotte Taylor's Hidden Rivertown Crossing              | 1959-03-01     |
+| Martinez    | Elijah       | Gates of Surreal Surreal Redwood Ridge                    | 1941-02-02     |
+| King        | Noah         | City of Alexander Foster                                  | 1963-01-23     |
+| Young       | Sophia       | Beyond the Sprawling Enchanting Enigmatic Brookside Haven | 1994-01-15     |
++-------------+--------------+-----------------------------------------------------------+----------------+

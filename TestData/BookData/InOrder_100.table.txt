@@ -1,0 +1,104 @@
++-------------+--------------+--------------------------------------------------------------------+----------------+
+| Last Name   | First Name   | Title                                                              | Release Date   |
+|-------------+--------------+--------------------------------------------------------------------+----------------|
+| Adams       | Michael      | Legacy of Urban Tranquil Laurelwood Glen                           | 1984-05-21     |
+| Adams       | Michael      | Legacy of Urban Tranquil Laurelwood Glen                           | 1985-04-10     |
+| Adams       | Michael      | Legacy of Urban Tranquil Laurelwood Glen                           | 2015-09-24     |
+| Alvarez     | Victoria     | Chronicles of the Sophia Parker                                    | 1938-06-24     |
+| Alvarez     | Victoria     | Chronicles of the Sophia Parker                                    | 1998-10-06     |
+| Anderson    | Mia          | Hidden Emily Hayes                                                 | 1965-05-05     |
+| Anderson    | Mia          | Hidden Emily Hayes                                                 | 1998-01-04     |
+| Bennet      | Charlotte    | Midnight Coastal Wonderful Pictorial Stonegate Terrace             | 1955-05-08     |
+| Chavez      | Mason        | Journey through Rustic Majestic Modern Hillcrest Glen              | 2020-08-16     |
+| Chavez      | Olivia       | Ava Harrison's Ancient Bustling Eclectic Whispering Pines          | 1904-12-09     |
+| Chavez      | Olivia       | Ava Harrison's Ancient Bustling Eclectic Whispering Pines          | 1963-07-18     |
+| Chavez      | Sophia       | Echoes Ashwood Terrace                                             | 1908-05-23     |
+| Chavez      | Sophia       | Echoes Ashwood Terrace                                             | 1922-08-13     |
+| Chavez      | Sophia       | Echoes Ashwood Terrace                                             | 1926-07-12     |
+| Chavez      | Sophia       | Echoes Ashwood Terrace                                             | 1958-03-23     |
+| Clark       | Caleb        | Gates of Henry Crawford                                            | 1949-07-11     |
+| Clark       | Caleb        | Gates of Henry Crawford                                            | 1985-10-07     |
+| Cox         | Aiden        | Legends of Bustling Urban Willowbrook Park                         | 1927-08-02     |
+| Cox         | Aiden        | Legends of Bustling Urban Willowbrook Park                         | 1946-09-05     |
+| Cox         | Aiden        | Legends of Bustling Urban Willowbrook Park                         | 1952-09-09     |
+| Foster      | Sophia       | Adventures in Stonegate Terrace                                    | 1990-09-22     |
+| Garcia      | Lily         | In the Shadow of Exotic Remote Artistic Lakeside Terrace           | 1963-05-01     |
+| Gomez       | Harper       | Lost in Time Sophia Parker                                         | 1950-02-02     |
+| Gomez       | Harper       | Lost in Time Sophia Parker                                         | 1950-09-01     |
+| Gomez       | Harper       | Lost in Time Sophia Parker                                         | 2012-02-01     |
+| Gray        | Victoria     | Whispers from Charming Quaint Meadowbrook Springs                  | 1967-05-07     |
+| Gray        | Victoria     | Whispers from Charming Quaint Meadowbrook Springs                  | 1983-09-14     |
+| Gray        | Victoria     | Whispers from Charming Quaint Meadowbrook Springs                  | 1997-08-19     |
+| Green       | Grace        | Underneath Mia Sullivan                                            | 1996-10-21     |
+| Hernandez   | Ava          | King's Grace Mitchell                                              | 1919-06-12     |
+| Hill        | Grace        | Olivia Bennett's Remote Solitary Meadowbrook Springs               | 1915-10-02     |
+| Hill        | Grace        | Olivia Bennett's Remote Solitary Meadowbrook Springs               | 1998-05-13     |
+| Howard      | Olivia       | Echoes of Emily Hayes                                              | 1959-04-10     |
+| Howard      | Olivia       | Echoes of Emily Hayes                                              | 1963-08-21     |
+| Howard      | Olivia       | Echoes of Emily Hayes                                              | 1988-03-07     |
+| Hughes      | Emma         | Chronicles Elijah Turner                                           | 1987-11-09     |
+| Jackson     | Grace        | Benjamin Mitchell's Bustling Birchwood Springs                     | 1944-10-15     |
+| Jimenez     | James        | Realm of Rustic Brookside Meadows                                  | 1917-04-23     |
+| Kim         | Aiden        | Legends of Eclectic Hidden Vibrant Woodland Park                   | 1967-10-24     |
+| King        | Abigail      | City of Henry Crawford                                             | 1937-08-01     |
+| Lewis       | Liam         | Gates of Exotic Sprawling Urban Pinecrest Pines                    | 1913-04-19     |
+| Long        | Harper       | Charlotte Taylor's Wonderful Whimsical Hillcrest Glen              | 1904-03-24     |
+| Long        | Harper       | Charlotte Taylor's Wonderful Whimsical Hillcrest Glen              | 1986-06-19     |
+| Miller      | Charlotte    | Hidden Urban Enigmatic Welcoming Willowridge Crossing              | 2010-07-18     |
+| Miller      | Sophia       | King's Redwood Ridge                                               | 1930-06-12     |
+| Miller      | Sophia       | King's Redwood Ridge                                               | 1995-03-01     |
+| Mitchell    | Ella         | Forgotten Bustling Serene Surreal Oakridge Bluffs                  | 2008-05-07     |
+| Morales     | Emily        | Whispering Urban Breathtaking Willowbrook Park                     | 1938-04-07     |
+| Morgan      | Grace        | Quest for the Rural Artistic Enigmatic Silverlake Springs          | 1922-09-19     |
+| Murphy      | Jackson      | Sophia Parker's Serene Wonderful Sprawling Woodland Park           | 1913-10-20     |
+| Nelson      | Elijah       | Realm of Wonderful Tranquil Silverlake Springs                     | 1904-07-11     |
+| Ortiz       | Daniel       | Curse of Charlotte Taylor                                          | 1983-01-21     |
+| Ortiz       | Harper       | Caleb Reynolds's Colorful Scenic Birchwood Springs                 | 1902-04-04     |
+| Ortiz       | Mason        | Whispering Lily Anderson                                           | 2008-02-09     |
+| Parker      | Jackson      | Quest for Elijah Turner                                            | 1941-03-19     |
+| Parker      | Jackson      | Quest for Elijah Turner                                            | 1965-09-03     |
+| Patel       | Daniel       | Forgotten Secluded Stonegate Terrace                               | 1998-06-08     |
+| Perez       | Zoe          | Songs of Ethan Wells                                               | 1991-09-21     |
+| Phillips    | James        | Dragon's Samuel Griffin                                            | 1913-10-18     |
+| Phillips    | James        | Dragon's Samuel Griffin                                            | 1951-05-20     |
+| Ramirez     | Scarlett     | Quest for Remote Cosmopolitan Pineview Cove                        | 2021-06-19     |
+| Reed        | Olivia       | Lost in Time Benjamin Mitchell                                     | 1973-02-03     |
+| Reed        | Olivia       | Lost in Time Benjamin Mitchell                                     | 1993-09-23     |
+| Reyes       | Ava          | Echoes of Benjamin Mitchell                                        | 1956-10-04     |
+| Reyes       | Grace        | Voyage to Urban Peaceful Coastal Oakridge Bluffs                   | 2014-01-03     |
+| Rodriguez   | Emma         | Adventures in Lucas Thornton                                       | 2009-10-12     |
+| Ross        | Harper       | Harper Nelson's Contemporary Inviting Welcoming Silverlake Springs | 1938-08-10     |
+| Ross        | Harper       | Harper Nelson's Contemporary Inviting Welcoming Silverlake Springs | 1948-10-17     |
+| Ross        | Harper       | Harper Nelson's Contemporary Inviting Welcoming Silverlake Springs | 1974-08-15     |
+| Ruiz        | Lucas        | Quest for Inviting Lush Vibrant Lakeside Terrace                   | 1939-09-11     |
+| Ruiz        | Lucas        | Quest for Inviting Lush Vibrant Lakeside Terrace                   | 1995-08-07     |
+| Sanchez     | Ethan        | King's Grace Mitchell                                              | 1979-11-08     |
+| Sanchez     | Ethan        | King's Grace Mitchell                                              | 1994-02-19     |
+| Scott       | Elijah       | Dreams in the Sophia Parker                                        | 1932-09-12     |
+| Scott       | Elijah       | Dreams in the Sophia Parker                                        | 1986-09-19     |
+| Scott       | Elijah       | Dreams in the Sophia Parker                                        | 1989-06-05     |
+| Taylor      | Benjamin     | Underneath Ava Harrison                                            | 1919-12-23     |
+| Taylor      | Daniel       | Forgotten Tranquil Charming Greenbriar Estates                     | 2002-12-18     |
+| Thomas      | Mia          | Journey through Silverlake Springs                                 | 1907-12-03     |
+| Thompson    | Mia          | Charlotte Taylor's Coastal Wonderful Rustic Willowdale Heights     | 1920-09-05     |
+| Torres      | Elizabeth    | Journey through Surreal Picturesque Remote Pinecrest Pines         | 1951-12-11     |
+| Torres      | Elizabeth    | Journey through Surreal Picturesque Remote Pinecrest Pines         | 1972-01-10     |
+| Torres      | Elizabeth    | Journey through Surreal Picturesque Remote Pinecrest Pines         | 2003-11-01     |
+| Torres      | Elizabeth    | Journey through Surreal Picturesque Remote Pinecrest Pines         | 2014-09-13     |
+| Turner      | Emma         | King's Elijah Turner                                               | 1980-05-12     |
+| Ward        | Sophia       | Realm of Welcoming Isolated Stonegate Terrace                      | 1972-01-06     |
+| Williams    | Lily         | Bloodlines Ava Harrison                                            | 1901-07-23     |
+| Williams    | Lily         | Bloodlines Ava Harrison                                            | 1938-04-23     |
+| Williams    | Lily         | Bloodlines Ava Harrison                                            | 1977-08-17     |
+| Williams    | Mason        | Enchanted Enchanting Enchanting Tranquil Golden Valley Meadows     | 1974-02-02     |
+| Williams    | Mason        | Enchanted Enchanting Enchanting Tranquil Golden Valley Meadows     | 2013-06-09     |
+| Wright      | Abigail      | Samuel Griffin's Oakridge Bluffs                                   | 1941-09-22     |
+| Wright      | Abigail      | Samuel Griffin's Oakridge Bluffs                                   | 1958-09-15     |
+| Wright      | Henry        | Underneath Wonderful Inviting Vibrant Crestwood Hills              | 1914-02-01     |
+| Wright      | Henry        | Underneath Wonderful Inviting Vibrant Crestwood Hills              | 1918-08-18     |
+| Wright      | Henry        | Underneath Wonderful Inviting Vibrant Crestwood Hills              | 1938-07-12     |
+| Wright      | Henry        | Underneath Wonderful Inviting Vibrant Crestwood Hills              | 1940-06-03     |
+| Young       | Charlotte    | Hidden Pineview Cove                                               | 1944-08-16     |
+| Young       | Charlotte    | Hidden Pineview Cove                                               | 2014-11-08     |
+| Young       | Grace        | Chronicles of the Caleb Reynolds                                   | 1993-04-13     |
++-------------+--------------+--------------------------------------------------------------------+----------------+
