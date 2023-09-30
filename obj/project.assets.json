@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Spark\\Downloads\\Project 2 - DataStructures\\Project 2 - DataStructures.csproj",
+      "projectUniqueName": "C:\\Users\\Spark\\Downloads\\CSCI-2210-SortingAlgorithmsProj\\Project 2 - DataStructures.csproj",
       "projectName": "Project 2 - DataStructures",
-      "projectPath": "C:\\Users\\Spark\\Downloads\\Project 2 - DataStructures\\Project 2 - DataStructures.csproj",
+      "projectPath": "C:\\Users\\Spark\\Downloads\\CSCI-2210-SortingAlgorithmsProj\\Project 2 - DataStructures.csproj",
       "packagesPath": "C:\\Users\\Spark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Spark\\Downloads\\Project 2 - DataStructures\\obj\\",
+      "outputPath": "C:\\Users\\Spark\\Downloads\\CSCI-2210-SortingAlgorithmsProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

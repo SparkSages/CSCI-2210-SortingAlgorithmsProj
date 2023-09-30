@@ -20,10 +20,16 @@ public abstract class IntegerSort
         {
             List<int> unsortedList = list;
             int accumulatedTime = 0;
-            Stopwatch stopwatch = new();
+
             for (int i = 0; i < 5; i++)
             {
+                Stopwatch stopwatch = new();
                 BubbleSort<int> bubbleSort = new();
+
+
+                //removes startup overhead due to initialization of bubble sort
+                List<int> sortedList = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+                bubbleSort.Sort(sortedList);
 
                 stopwatch.Start();
 
@@ -32,7 +38,7 @@ public abstract class IntegerSort
                 stopwatch.Stop();
 
                 accumulatedTime += (int)stopwatch.ElapsedMilliseconds;
-                Console.WriteLine("Bubble Sort");
+                Console.WriteLine($"Bubble Sort {i}");
                 Console.WriteLine("-----------");
 
                 Console.ForegroundColor = ConsoleColor.Yellow;
@@ -44,10 +50,6 @@ public abstract class IntegerSort
             System.Console.WriteLine($"Average Time: {accumulatedTime / 5}ms\n\n");
             unsortedList = list;
             Console.ResetColor();
-            Thread.Sleep(1000);
         }
     }
-
-
-
 }
