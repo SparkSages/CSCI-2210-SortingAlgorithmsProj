@@ -34,16 +34,16 @@ namespace Books
         // Parse a string in the format "LastName, FirstName, Title, ReleaseDate" into a Book object
         {
             // Split the input string into parts assuming a specific format
-            string[] parts = str.Split(',');
-            if (parts.Length != 4)
+            string[] parts = str.Split('|');
+            if (parts.Length != 6)
             {
                 throw new FormatException("Invalid format for parsing a book.");
             }
 
-            string lastName = parts[0].Trim();
-            string firstName = parts[1].Trim();
-            string title = parts[2].Trim();
-            if (!DateTime.TryParse(parts[3].Trim(), out DateTime releaseDate))
+            string lastName = parts[1].Trim();
+            string firstName = parts[2].Trim();
+            string title = parts[3].Trim();
+            if (!DateTime.TryParse(parts[4].Trim(), out DateTime releaseDate))
             {
                 throw new FormatException("Invalid release date format.");
             }

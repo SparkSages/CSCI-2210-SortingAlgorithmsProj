@@ -5,39 +5,42 @@ using System.Diagnostics;
 using System.Text;
 using System.Security.AccessControl;
 using System.IO;
+using Books;
 
-public abstract class IntegerSort
+public abstract class BookSort
 {
-    public static void SortUsingIntegers()
+    public static void SortUsingBooks()
     {
-        string filePath = "IntSortingCSV.csv";
+        string filePath = "BookSortingCSV.csv";
         StreamWriter csvWriter = new StreamWriter(filePath);
         csvWriter.WriteLine("Algorithm, Data File, Time Elapsed (ms)");
-        string[] intFilePaths = TestDataLoader.GetIntDataFiles();
-        List<List<int>> intList = new();
-        foreach (string s in intFilePaths)
+        string[] bookFilePaths = TestDataLoader.GetBookDataFiles();
+        List<List<Book>> bookList = new();
+
+        //int listIndex = 0;
+        foreach (string s in bookFilePaths)
         {
-            intList.Add(TestDataLoader.LoadIntegerTestData(s));
+            bookList.Add(TestDataLoader.LoadBookTestData(s));
         }
         int filePathIndex = 0;
 
         /// <summary>
         /// Bubble Sort
         /// </summary>
-        foreach (List<int> list in intList)
+        foreach (List<Book> list in bookList)
         {
-            List<int> unsortedList = list;
+            List<Book> unsortedList = list;
             int accumulatedTime = 0;
 
             for (int i = 0; i < 5; i++)
             {
                 Stopwatch stopwatch = new();
-                BubbleSort<int> bubbleSort = new();
+                BubbleSort<Book> bubbleSort = new();
 
 
                 //removes startup overhead due to initialization of bubble sort
-                List<int> sortedList = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-                bubbleSort.Sort(sortedList);
+                // List<int> sortedList = new() { new Book() };
+                // bubbleSort.Sort(sortedList);
 
                 stopwatch.Start();
 
@@ -48,37 +51,40 @@ public abstract class IntegerSort
                 accumulatedTime += (int)stopwatch.ElapsedMilliseconds;
                 Console.WriteLine($"Bubble Sort {i}");
                 Console.WriteLine("-----------");
-
+                foreach (Book b in unsortedList)
+                {
+                    System.Console.WriteLine(b);
+                }
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 System.Console.Out.WriteLine($"Time elapsed: {stopwatch.ElapsedMilliseconds}ms");
                 System.Console.WriteLine($"Accumulated Time: {accumulatedTime}ms");
                 Console.ResetColor();
             }
-            csvWriter.WriteLineAsync($"Bubble Sort, {intFilePaths[filePathIndex]}, {accumulatedTime / 5}");
+            csvWriter.WriteLineAsync($"Bubble Sort, {bookFilePaths[filePathIndex]}, {accumulatedTime / 5}");
             filePathIndex++;
             Console.ForegroundColor = ConsoleColor.Yellow;
             System.Console.WriteLine($"Average Time: {accumulatedTime / 5}ms\n\n");
             Console.ResetColor();
         }
 
-        filePathIndex = 0;
+
         /// <summary>
         /// Merge Sort
         /// </summary>
-        foreach (List<int> list in intList)
+        foreach (List<Book> list in bookList)
         {
-            List<int> unsortedList = list;
+            List<Book> unsortedList = list;
             int accumulatedTime = 0;
 
             for (int i = 0; i < 5; i++)
             {
                 Stopwatch stopwatch = new();
-                MergeSort<int> mergeSort = new();
+                MergeSort<Book> mergeSort = new();
 
 
                 //removes startup overhead due to initialization of bubble sort
-                List<int> sortedList = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-                mergeSort.Sort(sortedList);
+                //List<int> sortedList = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+                //mergeSort.Sort(sortedList);
 
                 stopwatch.Start();
 
@@ -89,13 +95,16 @@ public abstract class IntegerSort
                 accumulatedTime += (int)stopwatch.ElapsedMilliseconds;
                 Console.WriteLine($"Merge Sort {i}");
                 Console.WriteLine("-----------");
-
+                foreach (Book b in unsortedList)
+                {
+                    System.Console.WriteLine(b);
+                }
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 System.Console.Out.WriteLine($"Time elapsed: {stopwatch.ElapsedMilliseconds}ms");
                 System.Console.WriteLine($"Accumulated Time: {accumulatedTime}ms");
                 Console.ResetColor();
             }
-            csvWriter.WriteLine($"Merge Sort, {intFilePaths[filePathIndex]}, {accumulatedTime / 5}");
+            csvWriter.WriteLine($"Merge Sort, {bookFilePaths[filePathIndex]}, {accumulatedTime / 5}");
             filePathIndex++;
             Console.ForegroundColor = ConsoleColor.Yellow;
             System.Console.WriteLine($"Average Time: {accumulatedTime / 5}ms\n\n");

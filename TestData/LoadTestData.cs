@@ -11,6 +11,8 @@
 #endregion
 using System.Diagnostics.Contracts;
 using System.Globalization;
+using Books;
+
 namespace LoadTestData
 {
     public class TestDataLoader
@@ -72,6 +74,60 @@ namespace LoadTestData
 
 
         /// <summary>
+        /// Loads the book test data.
+        /// </summary>
+        /// <returns>a list of books to be sorted</returns>
+        public static List<Book> LoadBookTestData(string filePath)
+        {
+            List<Book> testData = new();
+            try
+            {
+                string[] lines = File.ReadAllLines(filePath);
+                foreach (string line in lines)
+                {
+                    if (Book.TryParse(line, out Book? book))
+                    {
+                        // Successfully parsed a book, add it to the list
+                        if (book != null)
+                        {
+                            testData.Add(book);
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Skipping non-book line: {line}");
+                    }
+                }
+            }
+            #region catches
+            catch (InvalidCastException ex)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(ex.Message);
+                Console.ResetColor();
+            }
+            catch (FileNotFoundException ex)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(ex.Message);
+                Console.ResetColor();
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(ex.Message);
+                Console.ResetColor();
+            }
+            catch (Exception ex)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(ex.Message);
+                Console.ResetColor();
+            }
+            #endregion
+            return testData;
+        }
+        /// <summary>
         /// Gets the file paths of the integer test data files
         /// </summary>
         /// <returns>an array of file paths</returns>
@@ -94,7 +150,7 @@ namespace LoadTestData
         /// Gets the file paths of the book test data files
         /// </summary>
         /// <returns>an array of file paths</returns>
-        private static string[] GetBookDataFiles()
+        public static string[] GetBookDataFiles()
         {
             string bookDataPaths = @".\TestData\BookData\";
             string[] files = Directory.GetFiles(bookDataPaths);
