@@ -39,7 +39,6 @@ public abstract class BookSort
 
 
                 //removes startup overhead due to initialization of bubble sort
-                // List<int> sortedList = new() { new Book() };
                 // bubbleSort.Sort(sortedList);
 
                 stopwatch.Start();
@@ -51,10 +50,6 @@ public abstract class BookSort
                 accumulatedTime += (int)stopwatch.ElapsedMilliseconds;
                 Console.WriteLine($"Bubble Sort {i}");
                 Console.WriteLine("-----------");
-                foreach (Book b in unsortedList)
-                {
-                    System.Console.WriteLine(b);
-                }
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 System.Console.Out.WriteLine($"Time elapsed: {stopwatch.ElapsedMilliseconds}ms");
                 System.Console.WriteLine($"Accumulated Time: {accumulatedTime}ms");
@@ -67,7 +62,7 @@ public abstract class BookSort
             Console.ResetColor();
         }
 
-
+        filePathIndex = 0;
         /// <summary>
         /// Merge Sort
         /// </summary>
@@ -95,10 +90,6 @@ public abstract class BookSort
                 accumulatedTime += (int)stopwatch.ElapsedMilliseconds;
                 Console.WriteLine($"Merge Sort {i}");
                 Console.WriteLine("-----------");
-                foreach (Book b in unsortedList)
-                {
-                    System.Console.WriteLine(b);
-                }
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 System.Console.Out.WriteLine($"Time elapsed: {stopwatch.ElapsedMilliseconds}ms");
                 System.Console.WriteLine($"Accumulated Time: {accumulatedTime}ms");
