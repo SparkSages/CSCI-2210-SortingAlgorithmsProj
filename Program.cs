@@ -10,6 +10,9 @@
 ///////////////////////////////////////////////////////////////////////////////
 namespace Project2
 {
+    /// <summary>
+    /// Program Class, this uses a nested class to run the sorts. Pointless but funny because we wanted one line of code.
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
@@ -18,10 +21,6 @@ namespace Project2
         }
     }
 }
-
-
-
-
 
 
 

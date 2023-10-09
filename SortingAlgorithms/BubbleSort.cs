@@ -13,6 +13,9 @@ using System.Data;
 using System.Collections.Generic;
 namespace SortingAlgorithms.BubbleSort
 {
+    /// <summary>
+    /// Bubble Sort Class
+    /// </summary>
     public class BubbleSort<T> : ISort<T> where T : IComparable<T>
     {
 

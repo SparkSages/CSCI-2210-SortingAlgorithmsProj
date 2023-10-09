@@ -8,6 +8,9 @@ using System.IO;
 
 public abstract class IntegerSort
 {
+    /// <summary>
+    /// Sorts a list of integers using the Bubble Sort algorithm
+    /// </summary>
     public static void SortUsingIntegers()
     {
         string filePath = "IntSortingCSV.csv";

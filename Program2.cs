@@ -9,6 +9,9 @@
 //
 ///////////////////////////////////////////////////////////////////////////////
 #endregion
+/// <summary>
+/// actual program class, this would be our actual program class but we wanted to run it on one line.
+/// </summary>
 abstract class Program2
 {
     public static void RunSorts()

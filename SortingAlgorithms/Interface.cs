@@ -11,7 +11,9 @@
 #endregion
 
 using System;
-
+/// <summary>
+/// Interface for sorting algorithms
+/// </summary>
 public interface ISort<T> where T : IComparable<T>
 {
     void Sort(List<T> values);

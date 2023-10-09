@@ -9,6 +9,9 @@ using Books;
 
 public abstract class BookSort
 {
+    /// <summary>
+    /// Sorts a list of books using the bubble sort algorithm
+    /// </summary>
     public static void SortUsingBooks()
     {
         string filePath = "BookSortingCSV.csv";
@@ -36,10 +39,6 @@ public abstract class BookSort
             {
                 Stopwatch stopwatch = new();
                 BubbleSort<Book> bubbleSort = new();
-
-
-                //removes startup overhead due to initialization of bubble sort
-                // bubbleSort.Sort(sortedList);
 
                 stopwatch.Start();
 
@@ -75,11 +74,6 @@ public abstract class BookSort
             {
                 Stopwatch stopwatch = new();
                 MergeSort<Book> mergeSort = new();
-
-
-                //removes startup overhead due to initialization of bubble sort
-                //List<int> sortedList = new() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-                //mergeSort.Sort(sortedList);
 
                 stopwatch.Start();
 

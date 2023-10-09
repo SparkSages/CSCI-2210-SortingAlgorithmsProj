@@ -15,11 +15,38 @@ using System.Collections.Generic;
 using System.Linq;
 namespace Books
 {
+    /// <summary>
+    /// Book Class
+    /// </summary>
     public class Book : IComparable<Book>
     {
+        /// <summary>
+        /// Gets or sets the last name of the author.
+        /// </summary>
+        /// <value>
+        /// The last name of the author.
+        /// </value>
         public string LastName { get; set; }
+        /// <summary>
+        /// Gets or sets the first name of the author.
+        /// </summary>
+        /// <value>
+        /// The first name of the author.
+        /// </value>
         public string FirstName { get; set; }
+        /// <summary>
+        /// Gets or sets the title of the book.
+        /// </summary>
+        /// <value>
+        /// The title of the book.
+        /// </value>
         public string Title { get; set; }
+        /// <summary>
+        /// Gets or sets the release date of the book.
+        /// </summary>
+        /// <value>
+        /// The release date of the book.
+        /// </value>
         public DateTime ReleaseDate { get; set; }
 
         public Book(string lastName, string firstName, string title, DateTime releaseDate)
@@ -30,8 +57,12 @@ namespace Books
             ReleaseDate = releaseDate;
         }
 
+        /// <summary>
+        /// Parse a string in the format "LastName, FirstName, Title, ReleaseDate" into a Book object
+        /// </summary>
+        /// <param name="str">The string to parse</param>
+        /// <returns>a <see cref="Book"/></returns>
         public static Book Parse(string str)
-        // Parse a string in the format "LastName, FirstName, Title, ReleaseDate" into a Book object
         {
             // Split the input string into parts assuming a specific format
             string[] parts = str.Split('|');
@@ -51,6 +82,12 @@ namespace Books
             return new Book(lastName, firstName, title, releaseDate);
         }
 
+        /// <summary>
+        /// Tries to parse the specified string into a book.
+        /// </summary>
+        /// <param name="str">The string to parse</param>
+        /// <param name="book">The book</param>
+        /// <returns>True if the string was parsed successfully, false otherwise</returns>
         public static bool TryParse(string str, out Book? book)
         {
             try
@@ -65,6 +102,10 @@ namespace Books
             }
         }
 
+        /// <summary>
+        /// Compares this book to another book.
+        /// </summary>
+        /// <param name="other">The <see cref="Book"/> to compare</param>
         public int CompareTo(Book? other)
         {
             if (other is null)
@@ -99,6 +140,9 @@ namespace Books
             return this.ReleaseDate.CompareTo(other.ReleaseDate);
         }
 
+        /// <summary>
+        /// Returns a string representation of this book.
+        /// </summary>
         public override string ToString()
         {
             return $"{LastName}, {FirstName}: {Title} ({ReleaseDate.Year})";
