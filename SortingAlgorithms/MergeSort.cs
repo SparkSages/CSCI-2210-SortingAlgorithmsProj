@@ -1,4 +1,3 @@
-#region  FileHeader
 ///////////////////////////////////////////////////////////////////////////////
 //
 // Authors: Brendan Dalhover - dalhover@etsu.edu
@@ -8,7 +7,6 @@
 // Description: Merge Sort Implementation
 //
 ///////////////////////////////////////////////////////////////////////////////
-#endregion
 using System.Data;
 using System.Collections.Generic;
 namespace SortingAlgorithms.BubbleSort

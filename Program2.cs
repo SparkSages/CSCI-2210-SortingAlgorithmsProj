@@ -1,4 +1,3 @@
-#region  FileHeader
 ///////////////////////////////////////////////////////////////////////////////
 //
 // Authors: Brendan Dalhover - dalhover@etsu.edu
@@ -8,7 +7,6 @@
 // Description: Literally did this just to run our program on one line
 //
 ///////////////////////////////////////////////////////////////////////////////
-#endregion
 /// <summary>
 /// actual program class, this would be our actual program class but we wanted to run it on one line.
 /// </summary>
